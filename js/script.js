@@ -7,6 +7,7 @@ $(document).ready(function () {
     waitForAnimate: false,
     centerMode: true,
     variableWidth: true,
+    centerPadding: 0,
     mobileFirst: true,
     responsive: [
       {
